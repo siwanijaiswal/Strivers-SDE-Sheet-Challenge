@@ -46,6 +46,9 @@ vector<vector<int>> zeroMatrix(vector<vector<int>> &matrix, int n, int m){
     }
     return matrix;
 }
+/*
+    T.C=O(n*m)*(n+m)+(n*m) 
+    */
 
 ```
 
@@ -78,6 +81,10 @@ vector<vector<int>> zeroMatrix(vector<vector<int>> &matrix,int n,int m){
      return matrix;
  
 }
+/*
+	TC = O(n*m) + O(n*m)
+	SC = O(n) + O(m)
+	*/
 
 ```
 
