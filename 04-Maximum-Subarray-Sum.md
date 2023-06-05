@@ -1,6 +1,7 @@
 
 [Maximum Subarray Sum](https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_8230694?challengeSlug=striver-sde-challenge&leftPanelTab=1)
-###(Kadane's Algorithm)
+
+### (Kadane's Algorithm)
 
 ## C++:
 ```Optimal Approach```
