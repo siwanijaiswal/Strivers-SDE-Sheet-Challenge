@@ -1,5 +1,5 @@
 
-[Pascal Triangle](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_8230805?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+[Pascal Triangle](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_8230805?challengeSlug=striver-sde-challenge&leftPanelTab=0).
 
 ## C++:
 ```Optimal Approach```
