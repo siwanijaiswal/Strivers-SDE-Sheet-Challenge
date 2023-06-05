@@ -1,6 +1,6 @@
 
 
-[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/)
+[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/).
 
 ## C++:
 
