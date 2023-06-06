@@ -1,7 +1,6 @@
  ## [Rotate Matrix Elements clockwise](https://www.codingninjas.com/codestudio/problems/rotate-matrix_8230774?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
 
-
  ```cpp
  #include <bits/stdc++.h>
 
