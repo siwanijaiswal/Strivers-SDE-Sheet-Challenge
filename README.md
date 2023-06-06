@@ -13,6 +13,8 @@
 ### Day 3(6th June)
 1. [Sort-0-1-2](https://www.codingninjas.com/codestudio/problems/sort-0-1-2_8230695?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 2. [Best-Time-To-Buy-N-Sell-Stock](https://www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_8230746?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Rotate Matrix Elements clockwise](https://www.codingninjas.com/codestudio/problems/rotate-matrix_8230774?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
  
 
 
