@@ -20,4 +20,5 @@
 2. [Merge Two Sorted Array](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-arrays_8230835?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
 ### Day 5(8th June)
-1. 
+1. [Find Duplicate Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_8230816?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
