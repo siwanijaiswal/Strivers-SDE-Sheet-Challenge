@@ -24,7 +24,6 @@ vector<int> missingNrepeatedNum(vector<int> arr){
     }
     return {repeating, missing};
 }
-
 int main(){
     vector<int> arr;
     arr = { 3,2,2,4,1};
