@@ -21,4 +21,5 @@
 
 ### Day 5(8th June)
 1. [Find Duplicate Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_8230816?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+2. [Find Missing And Repeated Array](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_8230733?challengeSlug=striver-sde-challenge)
 
