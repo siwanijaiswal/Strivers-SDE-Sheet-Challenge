@@ -1,7 +1,5 @@
  ## [Find Missing And Repeated Array](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_8230733?challengeSlug=striver-sde-challenge)
 
-
-
 ```Brute force ```
  ```cpp
 #include<bits/stdc++.h>
