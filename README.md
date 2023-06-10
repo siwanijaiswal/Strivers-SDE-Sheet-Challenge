@@ -27,3 +27,4 @@
 
 ### Day 7(10th June)
 1.[Count Inversion](https://www.codingninjas.com/codestudio/problems/count-inversions_8230680?challengeSlug=striver-sde-challenge)
+2.[Search In a 2D Matrix](https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_8230773?challengeSlug=striver-sde-challenge&leftPanelTab=1)
