@@ -56,7 +56,6 @@ void merge(long long * arr, long long temp[], int left, int mid, int right, int 
     for(i = left ; i <= right ; i++)
         arr[i] = temp[i];
 }
-
 void mergeSort(long long * arr, long long temp[], int left, int right, int &ans){
     if(left < right){
         int mid = (right+left)/2;
