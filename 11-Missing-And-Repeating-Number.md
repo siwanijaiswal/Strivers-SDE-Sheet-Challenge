@@ -77,3 +77,41 @@ T.C = O(2N)
 S.C = O(N)
 */
 ```
+```Optimal Approach(Mathematical)```
+``` cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+vector<int>missingNrepeatedNum(vector<int> arr){
+  long long n = arr.size();
+  // S - SN = x-y
+  // S2 - SN2 = x square + y square
+ long long S=0, S2=0;
+  long long SN = (n* (n+1))/2;
+  long long SN2 = (n* (n+1)* (2*n+1))/6;
+
+  for(int i= 0; i<n; i++){
+    S += arr[i];
+    S2 += (long long) arr[i] * (long long )arr[i];
+  }
+  long long  val1 = S - SN;
+  long long  val2 = S2 - SN2;
+  val2 = val2/ val1;   // x + y
+  long long x = (val1 + val2)/2;
+  long long y = x - val1;
+
+  return {(int)x,(int)y};
+
+}
+int main(){
+    vector<int> arr;
+    arr = { 4,3,6,2,1,1};
+     vector<int> ans = missingNrepeatedNum(arr);
+     cout << ans[0] <<"," << ans[1] << endl;
+     return 0;
+}
+/*
+T.C = O(N)
+S.C = O(1)
+*/
+```
