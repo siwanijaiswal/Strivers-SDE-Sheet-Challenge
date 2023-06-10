@@ -15,7 +15,7 @@ vector<int> missingNrepeatedNum(vector<int> arr){
     for(int i=1;i<=n; i++){
         int cnt =0;
         for(int j=0; j<n; j++){
-            if(arr[i] == arr[j]) cnt++;
+            if(arr[j] == i) cnt++;
         }
         if(cnt == 2) repeating = i;
         else if(cnt == 0) missing = i;
@@ -39,5 +39,41 @@ int main(){
 T.C = O(N^2)
 S.C = O(1)
 */
+```
+```Better Approach```
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
 
+vector<int> missingNrepeatedNum(vector<int> arr){
+    int n = arr.size();
+    int hash[n+1] = {0};
+    for(int i=0;i<n; i++){
+        hash[arr[i]]++;
+    }
+    int repeating = -1;
+    int missing = -1;
+
+    for(int i=1;i<=n; i++){
+
+        if(hash[i]== 2) repeating = i;
+        else if(hash[i] == 0) missing = i;
+
+        if(repeating != -1 & missing != -1){
+            break;
+        }
+    }
+    return {repeating, missing};
+}
+int main(){
+    vector<int> arr;
+    arr = { 4,3,6,2,1,1};
+     vector<int> ans = missingNrepeatedNum(arr);
+     cout << ans[0] <<"," << ans[1] << endl;
+     return 0;
+}
+/*
+T.C = O(2N)
+S.C = O(N)
+*/
 ```
