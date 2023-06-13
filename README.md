@@ -37,3 +37,6 @@
 
 ### Day 9(12th June)
 1.[Reverse Pairs](https://www.codingninjas.com/codestudio/problems/reverse-pairs_8230825?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+### Day 10(13th June)
+1.[Pair Sum](https://www.codingninjas.com/codestudio/problems/pair-sum_8230699?challengeSlug=striver-sde-challenge)
