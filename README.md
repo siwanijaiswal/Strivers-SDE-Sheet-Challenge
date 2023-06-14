@@ -44,4 +44,5 @@
 
 ### Day 11(14th June)
 1. [Longest Consecutive Sequence](https://www.codingninjas.com/codestudio/problems/longest-consecutive-sequence_8230708?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+2. [Largest Subarray With Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subarray-zero-sum_8230747?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
