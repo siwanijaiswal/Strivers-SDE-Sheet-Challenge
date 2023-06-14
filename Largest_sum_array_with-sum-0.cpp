@@ -22,3 +22,5 @@ int maxlen(int arr[], int n){
     }
     return maxi;
 }
+// T.C = O(nlogn)
+// S.C = O(n)
