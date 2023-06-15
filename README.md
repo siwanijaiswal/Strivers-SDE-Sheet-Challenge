@@ -49,3 +49,5 @@
 ### Day 12(15th June)
 1.[Count Subarrays with Given XOR](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_8230830?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
+2.[Longest Substring Without Repeating Characters](https://www.codingninjas.com/codestudio/problems/longest-substring-without-repeating-characters_8230684?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
