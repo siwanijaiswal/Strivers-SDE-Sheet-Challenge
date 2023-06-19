@@ -67,5 +67,6 @@
 
 ### Day 16(18th June)
 1. [Intersection of Linked List](https://www.codingninjas.com/studio/problems/intersection-of-two-linked-lists_8230688?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+2. [Cycle Detection in a Singly Linked List](https://www.codingninjas.com/studio/problems/cycle-detection-in-a-singly-linked-list_8230683?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
 
