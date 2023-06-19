@@ -4,7 +4,6 @@
 ```cpp
 bool detectCycle(Node *head)
 {
-	 
     Node* slow = head;
     Node* fast = head;
 
