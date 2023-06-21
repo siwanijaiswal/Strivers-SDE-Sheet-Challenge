@@ -72,3 +72,6 @@
 
 ### Day 17(20th June)
 1. [Palindrome LinkedList](https://www.codingninjas.com/studio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+### Day 18(21th June)
+1. [Linked List Cycle II](https://www.codingninjas.com/studio/problems/linked-list-cycle-ii_8230823?challengeSlug=striver-sde-challenge&leftPanelTab=1)
