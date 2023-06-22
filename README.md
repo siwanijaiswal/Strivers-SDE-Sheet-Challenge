@@ -75,3 +75,6 @@
 
 ### Day 18(21th June)
 1. [Linked List Cycle II](https://www.codingninjas.com/studio/problems/linked-list-cycle-ii_8230823?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+### Day 19(22th June)
+1.[Flatten A Linkedlist](https://www.codingninjas.com/studio/problems/flatten-a-linked-list_8230827?challengeSlug=striver-sde-challenge&leftPanelTab=1)
