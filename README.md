@@ -78,3 +78,6 @@
 
 ### Day 19(22th June)
 1.[Flatten A Linkedlist](https://www.codingninjas.com/studio/problems/flatten-a-linked-list_8230827?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+### Day 20(23rd June)
+1.[Rotate Linked List](https://www.codingninjas.com/codestudio/problems/rotate-linked-list_8230752?challengeSlug=striver-sde-challenge&leftPanelTab=0)
