@@ -81,3 +81,6 @@
 
 ### Day 20(23rd June)
 1.[Rotate Linked List](https://www.codingninjas.com/codestudio/problems/rotate-linked-list_8230752?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+### Day 21(24th June)
+1.[Copy List with Random pointer](https://www.codingninjas.com/studio/problems/copy-list-with-random-pointer_8230734?challengeSlug=striver-sde-challenge&leftPanelTab=1)
