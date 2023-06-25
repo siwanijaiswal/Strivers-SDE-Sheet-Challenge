@@ -84,3 +84,6 @@
 
 ### Day 21(24th June)
 1.[Copy List with Random pointer](https://www.codingninjas.com/studio/problems/copy-list-with-random-pointer_8230734?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+### Day 22(25th June)
+1.[3Sum](https://www.codingninjas.com/studio/problems/3sum_8230739?challengeSlug=striver-sde-challenge&leftPanelTab=1)
